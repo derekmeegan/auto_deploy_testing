@@ -1,0 +1,1 @@
+[{"type": "function", "function": {"name": "get_location_convention_center", "description": "Returns the address of the convention center.", "parameters": {"type": "object", "properties": {}, "required": []}}}]
